@@ -262,6 +262,7 @@ main {
 }
 .skill {
   display: flex;
+  gap: 10px
   width: 182px;
 }
 .skill > div {
